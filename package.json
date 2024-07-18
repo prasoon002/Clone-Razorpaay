@@ -1,0 +1,16 @@
+{
+  "name": "project-1-razorpay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "vite": "^2.9.18"
+  }
+}
